@@ -1,0 +1,44 @@
+package Ejercicio2;
+
+public class Calculadora {
+
+
+
+    // TODO: sumar dos enteros
+    public static int sumar(int a, int b) {
+
+        return a+b;
+    }
+
+    // TODO: sumar dos doubles
+    public static double sumar(double a, double b) {
+        return a + b;
+    }
+
+    // TODO: sumar tres enteros
+    public static int sumar(int a, int b, int c) {
+        return a + b + c;
+    }
+
+    // TODO: sumar un array de enteros
+    //Necesita agregar un for para que los numeros vayan recorriendose
+    public static int sumar(int[] numeros) {
+        int total = 0;
+        for (int numero : numeros){
+            total += numero;
+        }
+        // TODO: recorrer el array y acumular
+        return total;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("2 + 3 = " + sumar(2, 3));
+        System.out.println("2.5 + 3.7 = " + sumar(2.5, 3.7));
+        System.out.println("1 + 2 + 3 = " + sumar(1, 2, 3));
+
+
+
+        int[] nums = {10, 20, 30, 40};
+        System.out.println("Array suma = " + sumar(nums));
+    }
+}
