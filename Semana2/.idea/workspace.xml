@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fe6101c-4ede-4868-8757-ef371e8b1576" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semana2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/AccountLockedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/InsufficientBalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/InvalidAmountException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/TransactionLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio2/SimpleStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio3/TicketSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio4/ProductCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio5/PizzaShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0fe6101c-4ede-4868-8757-ef371e8b1576" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="3EsF4gjVC8t0CuJT5s3MaYoz9EH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "C:/Academia Java/Semana2/src/Main.java"
   }
 }]]></component>
